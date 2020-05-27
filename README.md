@@ -1,5 +1,11 @@
 # EEG-Communication
-> MindWave Mobile2, Raspberry pi를 이용한 뇌파 분석 프로젝트
+
+[OVERVIEW]
+
+This project is an Emergency Call System Using Mindwave Mobile2. In order to make this project, we used Bluetooth by Python3, 
+Django, MYSQL and machine learning(MLP). This project is to help the old and the weak who have mobility difficulties.
+'tiro25' had charged a part in User Interface, 'Below0' had charged a part in Server communication,'GitYR'(me) had charged a
+part in bluetooth communication between PC and Mindwave Mobile2,and 'sooheekim96' had charged a part in machine learning(MLP). 
 
 ## Architecture
 ### DB diagram
@@ -12,7 +18,7 @@
 ![그림2](https://user-images.githubusercontent.com/53803114/77825504-20818100-714d-11ea-8ee3-756897376b95.png)
 
 ## Developers
-* 14 최지웅 - tiro25
-* 15 이하영 - Below0
-* 15 최영림 - ChoiYoungRim
-* 16 김수희 - sooheekim96
+* tiro25
+* Below0
+* GitYR
+* sooheekim96
